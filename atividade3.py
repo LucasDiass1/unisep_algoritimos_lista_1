@@ -1,0 +1,5 @@
+num1 = float(input("Digite o 1o numero: "))
+num2= float(input("Digite o 2o numero: "))
+num3= float(input("Digite o 3o numero: "))
+soma = (num1 + num2 + num3)
+print (f'a soma eh: {soma}')
